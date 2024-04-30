@@ -5,7 +5,7 @@
 	"Description": "Adds compatability for Dwarven Expansion jewelry making with The Geology Mod minerals.",
 	"UniqueID": "mytigio.dwarven_expansion_the_geology_mod",
 	"MinimumApiVersion": "2.11.2",
-	"UpdateKeys": ["Nexus:???"],
+	"UpdateKeys": ["Nexus:23439"],
 	"Dependencies": [
 		{
 			"UniqueID": "mytigio.dwarven_expansion",
