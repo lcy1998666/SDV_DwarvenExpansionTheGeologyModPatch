@@ -8,10 +8,6 @@
         {
             "Action": "Include",
             "FromFile": "assets/jewelrymaker_recipes.json"
-        },
-        {
-            "Action": "Include",
-            "FromFile": "assets/pulverizer_recipes.json"
         }
     ]
 }
