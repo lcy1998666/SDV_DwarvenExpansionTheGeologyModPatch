@@ -25,7 +25,7 @@
                     "Edibility": -300,
                     "ContextTags": [
                         "{{ModId}}",
-                        "{{ModId}}_jewelry",
+                        "mytigio.dwarven_expansion_jewelry",
                         "category_gem",
                         "not_museum_donatable"
                     ],
@@ -42,7 +42,7 @@
                     "Edibility": -300,
                     "ContextTags": [
                         "{{ModId}}",
-                        "{{ModId}}_jewelry",
+                        "mytigio.dwarven_expansion_jewelry",
                         "category_gem",
                         "not_museum_donatable"
                     ],
@@ -59,7 +59,7 @@
                     "Edibility": -300,
                     "ContextTags": [
                         "{{ModId}}",
-                        "{{ModId}}_jewelry",
+                        "mytigio.dwarven_expansion_jewelry",
                         "category_gem",
                         "not_museum_donatable"
                     ],
@@ -76,7 +76,7 @@
                     "Edibility": -300,
                     "ContextTags": [
                         "{{ModId}}",
-                        "{{ModId}}_jewelry",
+                        "mytigio.dwarven_expansion_jewelry",
                         "category_gem",
                         "not_museum_donatable"
                     ],
@@ -93,7 +93,7 @@
                     "Edibility": -300,
                     "ContextTags": [
                         "{{ModId}}",
-                        "{{ModId}}_jewelry",
+                        "mytigio.dwarven_expansion_jewelry",
                         "category_gem",
                         "not_museum_donatable"
                     ],
@@ -110,7 +110,7 @@
                     "Edibility": -300,
                     "ContextTags": [
                         "{{ModId}}",
-                        "{{ModId}}_jewelry",
+                        "mytigio.dwarven_expansion_jewelry",
                         "category_gem",
                         "not_museum_donatable"
                     ],
@@ -127,7 +127,7 @@
                     "Edibility": -300,
                     "ContextTags": [
                         "{{ModId}}",
-                        "{{ModId}}_jewelry",
+                        "mytigio.dwarven_expansion_jewelry",
                         "category_gem",
                         "not_museum_donatable"
                     ],
@@ -144,7 +144,7 @@
                     "Edibility": -300,
                     "ContextTags": [
                         "{{ModId}}",
-                        "{{ModId}}_jewelry",
+                        "mytigio.dwarven_expansion_jewelry",
                         "category_gem",
                         "not_museum_donatable"
                     ],
@@ -161,7 +161,7 @@
                     "Edibility": -300,
                     "ContextTags": [
                         "{{ModId}}",
-                        "{{ModId}}_jewelry",
+                        "mytigio.dwarven_expansion_jewelry",
                         "category_gem",
                         "not_museum_donatable"
                     ],
@@ -178,7 +178,7 @@
                     "Edibility": -300,
                     "ContextTags": [
                         "{{ModId}}",
-                        "{{ModId}}_jewelry",
+                        "mytigio.dwarven_expansion_jewelry",
                         "category_gem",
                         "not_museum_donatable"
                     ],
@@ -195,7 +195,7 @@
                     "Edibility": -300,
                     "ContextTags": [
                         "{{ModId}}",
-                        "{{ModId}}_jewelry",
+                        "mytigio.dwarven_expansion_jewelry",
                         "category_gem",
                         "not_museum_donatable"
                     ],
