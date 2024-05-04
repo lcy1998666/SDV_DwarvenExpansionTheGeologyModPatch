@@ -85,7 +85,7 @@
                         "not_museum_donatable"
                     ],
                     "Texture": "{{InternalAssetKey: assets/ObjectSpritesheet.png}}",
-                    "SpriteIndex": 0
+                    "SpriteIndex": 3
                 },
                 "{{ModId}}_Jewelry_B_Morganite": {
                     "Name": "Morganite Brooch",
@@ -103,7 +103,7 @@
                         "not_museum_donatable"
                     ],
                     "Texture": "{{InternalAssetKey: assets/ObjectSpritesheet.png}}",
-                    "SpriteIndex": 5
+                    "SpriteIndex": 4
                 },
                 "{{ModId}}_Jewelry_B_Heliodor": {
                     "Name": "Heliodor Brooch",
@@ -121,7 +121,7 @@
                         "not_museum_donatable"
                     ],
                     "Texture": "{{InternalAssetKey: assets/ObjectSpritesheet.png}}",
-                    "SpriteIndex": 6
+                    "SpriteIndex": 5
                 },
                 "{{ModId}}_Jewelry_B_Labradorite": {
                     "Name": "Labradorite Brooch",
@@ -139,7 +139,7 @@
                         "not_museum_donatable"
                     ],
                     "Texture": "{{InternalAssetKey: assets/ObjectSpritesheet.png}}",
-                    "SpriteIndex": 7
+                    "SpriteIndex": 8
                 },
                 "{{ModId}}_Jewelry_B_SweetGemBerry": {
                     "Name": "Sweet Gem Berry Brooch",
@@ -157,7 +157,7 @@
                         "not_museum_donatable"
                     ],
                     "Texture": "{{InternalAssetKey: assets/ObjectSpritesheet.png}}",
-                    "SpriteIndex": 8
+                    "SpriteIndex": 9
                 },
                 "{{ModId}}_Jewelry_B_VoidDiamond": {
                     "Name": "Void Diamond Brooch",
@@ -175,7 +175,7 @@
                         "not_museum_donatable"
                     ],
                     "Texture": "{{InternalAssetKey: assets/ObjectSpritesheet.png}}",
-                    "SpriteIndex": 9
+                    "SpriteIndex": 10
                 },
                 "{{ModId}}_Jewelry_B_Tourmaline": {
                     "Name": "Tourmaline Brooch",
@@ -193,7 +193,7 @@
                         "not_museum_donatable"
                     ],
                     "Texture": "{{InternalAssetKey: assets/ObjectSpritesheet.png}}",
-                    "SpriteIndex": 10
+                    "SpriteIndex": 11
                 },
                 "{{ModId}}_Jewelry_B_Larimar": {
                     "Name": "Larimar Brooch",
@@ -211,7 +211,7 @@
                         "not_museum_donatable"
                     ],
                     "Texture": "{{InternalAssetKey: assets/ObjectSpritesheet.png}}",
-                    "SpriteIndex": 3
+                    "SpriteIndex": 12
                 },
                 "{{ModId}}_Jewelry_B_BlueAgathe": {
                     "Name": "Blue Agathe Brooch",
@@ -229,7 +229,7 @@
                         "not_museum_donatable"
                     ],
                     "Texture": "{{InternalAssetKey: assets/ObjectSpritesheet.png}}",
-                    "SpriteIndex": 3
+                    "SpriteIndex": 13
                 }
 
             }
