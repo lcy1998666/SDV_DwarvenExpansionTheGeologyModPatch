@@ -8,6 +8,10 @@
         {
             "Action": "Include",
             "FromFile": "assets/jewelrymaker_recipes.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/mushroom_box_recipes.json"
         }
     ]
 }
