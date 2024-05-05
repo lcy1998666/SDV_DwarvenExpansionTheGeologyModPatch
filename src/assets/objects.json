@@ -27,6 +27,7 @@
                         "{{ModId}}",
                         "mytigio.dwarven_expansion_jewelry",
                         "category_gem",
+                        "crystalarium_banned",
                         "not_museum_donatable"
                     ],
                     "Texture": "{{InternalAssetKey: assets/ObjectSpritesheet.png}}",
@@ -44,6 +45,7 @@
                         "{{ModId}}",
                         "mytigio.dwarven_expansion_jewelry",
                         "category_gem",
+                        "crystalarium_banned",
                         "not_museum_donatable"
                     ],
                     "Texture": "{{InternalAssetKey: assets/ObjectSpritesheet.png}}",
@@ -61,6 +63,7 @@
                         "{{ModId}}",
                         "mytigio.dwarven_expansion_jewelry",
                         "category_gem",
+                        "crystalarium_banned",
                         "not_museum_donatable"
                     ],
                     "Texture": "{{InternalAssetKey: assets/ObjectSpritesheet.png}}",
@@ -78,6 +81,7 @@
                         "{{ModId}}",
                         "mytigio.dwarven_expansion_jewelry",
                         "category_gem",
+                        "crystalarium_banned",
                         "not_museum_donatable"
                     ],
                     "Texture": "{{InternalAssetKey: assets/ObjectSpritesheet.png}}",
@@ -95,6 +99,7 @@
                         "{{ModId}}",
                         "mytigio.dwarven_expansion_jewelry",
                         "category_gem",
+                        "crystalarium_banned",
                         "not_museum_donatable"
                     ],
                     "Texture": "{{InternalAssetKey: assets/ObjectSpritesheet.png}}",
@@ -112,6 +117,7 @@
                         "{{ModId}}",
                         "mytigio.dwarven_expansion_jewelry",
                         "category_gem",
+                        "crystalarium_banned",
                         "not_museum_donatable"
                     ],
                     "Texture": "{{InternalAssetKey: assets/ObjectSpritesheet.png}}",
@@ -129,6 +135,7 @@
                         "{{ModId}}",
                         "mytigio.dwarven_expansion_jewelry",
                         "category_gem",
+                        "crystalarium_banned",
                         "not_museum_donatable"
                     ],
                     "Texture": "{{InternalAssetKey: assets/ObjectSpritesheet.png}}",
@@ -146,6 +153,7 @@
                         "{{ModId}}",
                         "mytigio.dwarven_expansion_jewelry",
                         "category_gem",
+                        "crystalarium_banned",
                         "not_museum_donatable"
                     ],
                     "Texture": "{{InternalAssetKey: assets/ObjectSpritesheet.png}}",
@@ -163,6 +171,7 @@
                         "{{ModId}}",
                         "mytigio.dwarven_expansion_jewelry",
                         "category_gem",
+                        "crystalarium_banned",
                         "not_museum_donatable"
                     ],
                     "Texture": "{{InternalAssetKey: assets/ObjectSpritesheet.png}}",
@@ -180,6 +189,7 @@
                         "{{ModId}}",
                         "mytigio.dwarven_expansion_jewelry",
                         "category_gem",
+                        "crystalarium_banned",
                         "not_museum_donatable"
                     ],
                     "Texture": "{{InternalAssetKey: assets/ObjectSpritesheet.png}}",
@@ -197,6 +207,7 @@
                         "{{ModId}}",
                         "mytigio.dwarven_expansion_jewelry",
                         "category_gem",
+                        "crystalarium_banned",
                         "not_museum_donatable"
                     ],
                     "Texture": "{{InternalAssetKey: assets/ObjectSpritesheet.png}}",
