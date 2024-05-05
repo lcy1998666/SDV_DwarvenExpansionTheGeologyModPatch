@@ -1,18 +1,18 @@
 ﻿{
-	"Name": "[CP] Dwarven Expansion - Visit Mount Vapius Patch",
+	"Name": "[CP] Dwarven Expansion - The Geology Mod Patch",
 	"Author": "mytigio",
 	"Version": "1.0.0",
-	"Description": "Adds compatability for Dwarven Expansion jewelry making with Visit Mount Vapius minerals.",
-	"UniqueID": "mytigio.dwarven_expansion_visit_mount_vapius",
+	"Description": "Adds compatability for Dwarven Expansion jewelry making with The Geology Mod minerals.",
+	"UniqueID": "mytigio.dwarven_expansion_the_geology_mod",
 	"MinimumApiVersion": "2.11.2",
-	"UpdateKeys": ["Nexus:???"],
+	"UpdateKeys": ["Nexus:23439"],
 	"Dependencies": [
 		{
 			"UniqueID": "mytigio.dwarven_expansion",
 			"IsRequired": true
 		},
 		{
-			"UniqueID": "Lumisteria.MtVapius",
+			"UniqueID": "Solariaze.Geology",
 			"IsRequired": true
 		}
 	],
